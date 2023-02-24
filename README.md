@@ -1,4 +1,4 @@
-A formula to calculates simple interest given principal, annual rate of interest and time period in years.
+A formula to calculate simple interest given principal, annual rate of interest and time period in years.
 
 Input:
    p, principal amount
